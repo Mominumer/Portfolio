@@ -271,6 +271,7 @@ button:focus {
 }
 
 .Logo-name{
+  padding-top: 2.5vw;
   font-size: 2vw;
   color: #cd5ff8;
   font-weight:bold;
@@ -321,6 +322,9 @@ button:focus {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
   }
+}
+.Logo-name{
+  font-size: 3vw;
 }
 
 .home-about-section {
@@ -746,4 +750,10 @@ button:focus {
 }
 .fork-btn-inner::after {
   display: none !important;
+}
+@media (max-width: 425px) {
+  .Logo-name{
+    padding-top: 5vw;
+    font-size: 6vw;
+  }
 }
