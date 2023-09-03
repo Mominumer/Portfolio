@@ -757,3 +757,24 @@ button:focus {
     font-size: 6vw;
   }
 }
+
+@media (max-width: 325px) {
+  .Logo-name{
+    padding-top: 6vw;
+    font-size: 8vw;
+  }
+}
+
+@media (max-width: 225px) {
+  .Logo-name{
+    padding-top: 7vw;
+    font-size: 10vw;
+  }
+}
+
+@media (max-width: 125px) {
+  .Logo-name{
+    padding-top: 8vw;
+    font-size: 12vw;
+  }
+}
