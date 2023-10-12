@@ -22,7 +22,7 @@ function Projects() {
               isBlog={false}
               title="Detect Neoplasm"
               description="Our cutting-edge hospital management system leverages the power of the MERN stack (MongoDB, Express.js, React, Node.js) combined with advanced Machine Learning capabilities to revolutionize healthcare. Our primary objective is to provide early and accurate detection of brain tumors through MRI images, facilitating timely interventions and ultimately saving lives."
-              ghLink="https://github.com/hannanaslamtech/detect-neoplasm.git"
+              ghLink="https://github.com/Mominumer/Neoplasm_updated"
               demoLink="https://detect-fyp-client-unxj.vercel.app/"
             />
           </Col>
@@ -34,7 +34,7 @@ function Projects() {
               title="Face Recognition and Emotion Detection"
               description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/hannanaslamtech/Face_Recognition_and_Emotion_Detection.git"
+              ghLink=""
               // demoLink=""      <--------Please include a demo link here 
             />
           </Col>

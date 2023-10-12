@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/momin.jpeg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -68,7 +68,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/hannanaslamtech"
+                  href="https://github.com/Mominumer"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -78,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/abdul-hannan-aslam-9b2135278/"
+                  href="https://www.linkedin.com/in/momin-umer-buksh-89711922a/?originalSubdomain=pk"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -88,7 +88,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/hannan._.aslam/?next=%2Fstories%2Fhighlights%2F18210605722084322%2F"
+                  href="https://www.instagram.com/mominomer7"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

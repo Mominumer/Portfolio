@@ -37,7 +37,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <p className="Logo-name">Ah.</p>
+          <p className="Logo-name">MUB.</p>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -92,7 +92,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/hannanaslamtech"
+                href="https://www.linkedin.com/in/momin-umer-buksh-89711922a/?originalSubdomain=pk"
                 target="_blank"
                 className="fork-btn-inner"
               >

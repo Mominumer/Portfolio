@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Abdul Hannan</h3>
+          <h3>Designed and Developed by Momin Umer Buksh</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} AH</h3>
+          <h3>Copyright © {year} MUB</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/hannanaslamtech"
+                href="https://github.com/Mominumer"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/abdul-hannan-aslam-9b2135278/"
+                href="https://www.linkedin.com/in/momin-umer-buksh-89711922a/?originalSubdomain=pk"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/hannan._.aslam/?next=%2Fstories%2Fhighlights%2F18210605722084322%2F"
+                href="https://www.instagram.com/mominomer7"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
